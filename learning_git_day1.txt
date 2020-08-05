@@ -10,3 +10,7 @@ git reflog
 git checkout --file name
 git reset HEAD file name
 git rm file name
+git remote add origin
+git push
+git push -u origin master
+git pushi origin master
