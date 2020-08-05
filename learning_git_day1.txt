@@ -1,0 +1,12 @@
+learning Git day 1 (probably no day 2)
+git config
+git add file name
+git commit -m #comments"
+git status
+git diff
+git log --pretty=oneline
+git reset --hard HEAD
+git reflog
+git checkout --file name
+git reset HEAD file name
+git rm file name
