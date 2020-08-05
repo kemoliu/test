@@ -14,3 +14,6 @@ git remote add origin
 git push
 git push -u origin master
 git pushi origin master
+git checkout -b dev
+git branch
+git merge dev
